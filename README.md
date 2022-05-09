@@ -6,6 +6,9 @@ Basic concepts, theories, notes to remember about area of self-driving Cars
 
 ## Operational design domain (ODD)
 Defines where AVs can operate and specifies use cases, including many types of passenger and goods transportation. ODDs will have different specifications for each use case and driving segment. ODDs require a standards effort (explained further below).
+
+The ODD is used for the functional specification of AVs. It specifies what static and dynamic environmental parameters an AV must manage. They include all types of traffic participants, the weather conditions, the infrastructure, the location, the time of day, and everything else that can have an impact on driving situations.
+
 ## Object and event detection and response (OEDR)
 Monitors and responds to the driving environment via vision and software driver platforms.
 ## Dynamic driving tasks (DDT)
