@@ -1,6 +1,6 @@
 Notes for Self-Driving Cars
 ==========================
-Basic concepts, theories, notes to remember about area of self-driving Cars
+Basic concepts, theories, notes to remember about area of self-driving cars
 
 # Definitions
 
